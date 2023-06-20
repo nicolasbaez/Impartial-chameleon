@@ -1,7 +1,7 @@
 # Impartial-chameleon
 Space dance
 
-![buh](https://github.com/nicolasbaez/Rain-narwhal/blob/main/xp006.gif)
+![buh](https://github.com/nicolasbaez/Impartial-chameleon/blob/main/xp006.gif)
 ```javascript
 w = 500;
 h = w / 2;
